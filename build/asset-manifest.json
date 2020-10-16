@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kc-works/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kc-works/static/js/main.7515cf8d.chunk.js",
+    "main.js.map": "/kc-works/static/js/main.7515cf8d.chunk.js.map",
+    "runtime-main.js": "/kc-works/static/js/runtime-main.37c6d3b2.js",
+    "runtime-main.js.map": "/kc-works/static/js/runtime-main.37c6d3b2.js.map",
+    "static/js/2.6552ec91.chunk.js": "/kc-works/static/js/2.6552ec91.chunk.js",
+    "static/js/2.6552ec91.chunk.js.map": "/kc-works/static/js/2.6552ec91.chunk.js.map",
+    "index.html": "/kc-works/index.html",
+    "precache-manifest.740e2e4b5ab01d6c58b3008852a421a3.js": "/kc-works/precache-manifest.740e2e4b5ab01d6c58b3008852a421a3.js",
+    "service-worker.js": "/kc-works/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kc-works/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6552ec91.chunk.js.LICENSE.txt": "/kc-works/static/js/2.6552ec91.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kc-works/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37c6d3b2.js",
+    "static/js/2.6552ec91.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7515cf8d.chunk.js"
+  ]
+}
