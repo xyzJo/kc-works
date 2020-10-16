@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        KC Works - a construction company led by Kevin Cuevas 
+        KC Works - a construction company led by Kevin 
         </p>
         <a
           className="App-link"
